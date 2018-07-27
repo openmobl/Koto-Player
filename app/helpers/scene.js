@@ -1,4 +1,4 @@
-﻿/**
+/**
  * helpers for scene assistants in Koto; (idea and basics) taken from the excellent Spaz app
  */
 var scene_helpers = {};
